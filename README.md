@@ -7,7 +7,7 @@
 ***
 
 ## Note
-Current used mdloader version is **1.0.4**.
+Current used mdloader version is **1.0.5**.
 
 ***
 
